@@ -1,7 +1,7 @@
-# Ye Olde Soup House
+# Ye Olde Soupe House
 
 #### Description
-A proof-of-concept game made in about 12 hours. A variation on restaurant cooking games, in **Ye Olde Soup House** you cook various types of soups for customers as they request it. If you take too long they will leave in anger, costing you the price of the ingredients. Successfully serve them however, and you'll make a nice profit!
+A proof-of-concept game made in about 12 hours. A variation on restaurant cooking games, in **Ye Olde Soupe House** you cook various types of soups for customers as they request it. If you take too long they will leave in anger, costing you the price of the ingredients. Successfully serve them however, and you'll make a nice profit!
 
 Experimenting with interface design was the primary motivation for the project. I wanted to make a game where the vast majority of the interactions and information was given through non-text cues and to prevent the use of traditional interface "windows" where possible (e.g. the recipe book tries to look like an actual book with pages rather than a panel with a scroll rect, or customers turn red to show anger rather than an "anger bar" above their heads).
 
